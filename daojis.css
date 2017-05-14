@@ -1,0 +1,10 @@
+@charset "utf-8";
+*{margin:0;padding:0;list-style-type:none;}
+a,img{border:0;}
+
+
+#holder{margin:140px auto 0 auto;width:485px;height:120px;}
+.cntSeparator{display:block;color:#fff;font-size:20px;font-weight:800;text-align:center;width:30px;}
+#holder{
+	background-color: green;
+}
